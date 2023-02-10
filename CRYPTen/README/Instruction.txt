@@ -1,5 +1,5 @@
 What do with a files, you mean yeah?
-So enCRYPTen is an encrypting file, this file crypting ALL THE FILES will be in crypting_files folder. You may remember it.
+So CRYPTen is an encrypting file, this file crypting ALL THE FILES will be in crypting_files folder. You may remember it.
 All the folders with all the files.
 Ok. You run the program. There is the "> Enter password to encrypt:". You may enter the password, you can't pass it.
 If you don't need the password, just put it to .txt file, and when time is come you use this key.
