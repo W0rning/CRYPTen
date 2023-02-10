@@ -32,5 +32,7 @@ input("\nYou can close this window..")
 #His YouTube: https://www.youtube.com/@CodeOnBy
 #His Web-Site: https://codeonby.com
 
-#Code by W0rning
+#Some code, Instruction, README by W0rning
 #Git-Hub: https://github.com/W0rning
+
+#Bigger half of code by CodeOnBy
