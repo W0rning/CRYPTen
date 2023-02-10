@@ -14,6 +14,7 @@ Before you start, you could to install PyAesCrypt(without this, program will don
 Windows: pip install PyAesCrypt
 MacOS: python3 -m pip install PyAesCrypt
 Linux: sudo pip3 install PyAesCrypt
+-----------------------------------------------------------------------------------------------------------------------------
 
 Thanks to YouTube channel "CodeOnBy" with a help for the project
 His YouTube: https://www.youtube.com/@CodeOnBy
