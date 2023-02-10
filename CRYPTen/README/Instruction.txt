@@ -1,0 +1,25 @@
+What do with a files, you mean yeah?
+So enCRYPTen is an encrypting file, this file crypting ALL THE FILES will be in crypting_files folder. You may remember it.
+All the folders with all the files.
+Ok. You run the program. There is the "> Enter password to encrypt:". You may enter the password, you can't pass it.
+If you don't need the password, just put it to .txt file, and when time is come you use this key.
+And yes, you can pass it:)
+Just click ENTER when program is starting, and when starting decrypt program you may do the same.
+All the crypting and decrypting history will be show in the console. (in the future is will put to .txt file)
+THAT IS ALL! And check README before start the program!
+-----------------------------------------------------------------------------------------------------------------------------
+
+Before you start, you could to install PyAesCrypt(without this, program will don't working)
+
+Windows: pip install PyAesCrypt
+MacOS: python3 -m pip install PyAesCrypt
+Linux: sudo pip3 install PyAesCrypt
+
+Thanks to YouTube channel "CodeOnBy" with a help for the project
+His YouTube: https://www.youtube.com/@CodeOnBy
+His Web-Site: https://codeonby.com
+
+Some code, Instruction, README by W0rning
+Git-Hub: https://github.com/W0rning
+
+Bigger half of code by CodeOnBy
